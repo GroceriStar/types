@@ -26,7 +26,7 @@ var data = [
     day: Thursday
   },
   {
-    tag:'grill',
+    tag:'brats',
     text:'Grilled Brats with Corn on Cob, Baked Beans and  Strawberries & Blueberries',
     day: Friday
   },
